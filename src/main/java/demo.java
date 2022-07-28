@@ -8,5 +8,8 @@ public class demo {
 
         //改
         System.out.println("master");
+
+        //改
+        System.out.println("hot-fix1");
     }
 }
