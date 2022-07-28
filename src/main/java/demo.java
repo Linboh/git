@@ -11,5 +11,7 @@ public class demo {
 
         //改
         System.out.println("hot-fix1");
+
+        System.out.println("push");
     }
 }
